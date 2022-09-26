@@ -1,3 +1,3 @@
 # Test
 
-This is a test to see how github works
+This is a test to see how github works.
